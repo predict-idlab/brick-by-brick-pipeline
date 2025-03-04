@@ -1,4 +1,4 @@
-# brick-by-brick-pipeline
+# Brick-by-Brick ML pipeline
 
 This repository was developed as part of the **Brick by Brick 2024 Challenge**, a global competition aimed at **automating building data classification** to enhance the intelligence and energy efficiency of buildings. By tackling this challenge, we contribute to the broader effort of enabling **sustainable and smart building management** through data-driven solutions.
 
