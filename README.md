@@ -5,7 +5,7 @@ This repository was developed as part of the **Brick by Brick 2024 Challenge**, 
 Our machine learning pipeline achieves a **0.5767 macro F1 score** on the public test leaderboard. The approach leverages advanced **feature extraction** and **ensemble learning** to optimize performance. For a detailed explanation of the methodology, feature extraction process, and model optimization, please refer to the accompanying **report.pdf** and our published paper.
 
 ## Brick by Brick 2024 Challenge
-The **Brick by Brick 2024 Challenge** is a global initiative designed to advance automation in building data classification. The challenge's primary goal is to enable **intelligent, energy-efficient buildings** by leveraging machine learning and data science methodologies. Our contribution focuses on developing a robust, high-performing model that effectively processes and classifies building data.
+The [**Brick by Brick 2024 Challenge**](https://www.aicrowd.com/challenges/brick-by-brick-2024) is a global initiative designed to advance automation in building data classification. The challenge's primary goal is to enable **intelligent, energy-efficient buildings** by leveraging machine learning and data science methodologies. Our contribution focuses on developing a robust, high-performing model that effectively processes and classifies building data.
 
 ## Provided Solution
 The solution is built around **feature extraction** and **ensemble learning**, leveraging a structured approach to feature selection and hyperparameter optimization. The pipeline follows a **stratified k-fold cross-validation** scheme to ensure robustness.
